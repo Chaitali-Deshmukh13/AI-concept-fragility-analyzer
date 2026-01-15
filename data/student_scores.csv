@@ -1,0 +1,9 @@
+
+student_id,concept,score_easy,score_medium,score_hard,time_taken
+1,Arrays,85,80,78,120
+2,Arrays,90,40,30,220
+3,Loops,95,92,90,100
+4,Loops,88,60,55,180
+5,Recursion,70,50,20,260
+6,Recursion,92,90,88,110
+
